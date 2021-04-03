@@ -114,7 +114,6 @@ p {
 .content img {
     max-height: 200px;
 }
-/* can consolidate the h2 for the class .content as well. */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
