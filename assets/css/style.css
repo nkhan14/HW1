@@ -86,17 +86,17 @@ p {
     background-color: #2589bd;
 }
 /* can consolidate to div .benefits rather than list each individually. It works both ways, but this is cleaner. */
-div .benefits {
+.benefits {
     margin-bottom: 32px;
     color: #ffffff; 
 }
 /* can consolidate to h3 .benefits rather than list each individually. It works both ways, but this is cleaner. */
-h3 .benefits {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 /* can consolidate to img .benefits rather than list each individually. It works both ways, but this is cleaner. */
-img .benefits {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
