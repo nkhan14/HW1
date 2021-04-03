@@ -16,6 +16,9 @@ This was the purpose of this exercise. I have commented in the HTML and CSS file
 * Needed to consolidate the images since they have the same class rather than list them seperately. Again, this method is cleaner. 
 * Needed to consolidate the h2 for the class .content as well. 
 
-**URL**
+**URL Live Page**
 https://nkhan14.github.io/HW1/
+
+**URL GitRepository (https)**
+https://github.com/nkhan14/HW1.git
 
